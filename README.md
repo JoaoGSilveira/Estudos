@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Olá 👋 eu sou o João</h1>
+<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
